@@ -1,0 +1,2 @@
+(()=>{"use strict";window.addEventListener("DOMContentLoaded",(function(){const e=document.querySelectorAll("._5 .items_box__item");console.log(e),e.forEach((e=>{e.addEventListener("click",(t=>{t.preventDefault(),e.classList.contains("active")?e.classList.remove("active"):e.classList.add("active")}))}))}))})();
+//# sourceMappingURL=app.3789824b.js.map
